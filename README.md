@@ -25,5 +25,7 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=johanneslks&" alt="johanneslks" /></p>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=johanneslks&show_icons=true&locale=en&layout=compact" alt="johanneslks" /></p>
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=johanneslks&layout=compact)
+
 
 
