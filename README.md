@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on [Google Timesketch](https://github.com/google/timesketch)
 
-- 🌱 I’m currently learning **pentesting**
+- 🌱 I’m currently learning **pentesting**, **ruby**
 
 - 👯 I’m looking to collaborate on [Metasploit](https://github.com/rapid7/metasploit-framework)
 
