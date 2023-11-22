@@ -1,7 +1,8 @@
 <h1 align="center">Hi 👋, I'm Johannes</h1>
 <h3 align="center">A passionate developer and red teamer from germany</h3>
 
-<p align="left"> <a href="https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=gruvbox"><img src="https://github-profile-trophy.vercel.app/?username=johanneslks" alt="johanneslks" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=johanneslks&column=9&theme=gruvbox&no-frame=true" alt="johanneslks" /></a> </p>
+
 - 🔭 I’m currently working on [Google Timesketch](https://github.com/google/timesketch)
 
 - 🌱 I’m currently learning **pentesting**
