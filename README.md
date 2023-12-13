@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **pentesting**, **ruby**
 
-- 👯 I’m looking to collaborate on [Metasploit](https://github.com/rapid7/metasploit-framework)
+- 👯 I’m looking to collaborate on Opensource Pentest-Tools
 
 - 💬 Ask me about **python, cybersecurity**
 
