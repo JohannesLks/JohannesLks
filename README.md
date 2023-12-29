@@ -15,6 +15,8 @@
 
 - 🖥️ My Website: [pontis-it.com](http://pontis-it.com)
 
+- :money_with_wings: Support me: [Donate!](https://www.paypal.com/donate/?hosted_button_id=FYJLB7DAJRR58)
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/lukas-johannes-moeller" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="lukas-johannes-moeller" height="30" width="40" /></a>
