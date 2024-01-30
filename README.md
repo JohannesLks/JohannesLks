@@ -1,6 +1,7 @@
 <h1 align="center">Hi 👋, I'm Johannes</h1>
-![](https://komarev.com/ghpvc/?username=JohannesLks&style=flat-square)
 <h3 align="center">A passionate developer, entrepreneur and red teamer from Germany</h3>
+
+![](https://komarev.com/ghpvc/?username=JohannesLks&style=flat-square)
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=johanneslks&column=9&theme=gruvbox&no-frame=true" alt="johanneslks" /></a> </p>
 
