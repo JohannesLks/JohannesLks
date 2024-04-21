@@ -17,8 +17,6 @@
 - 🖥️ My Website: [pontis-it.com](http://pontis-it.com)
 
 - :money_with_wings: Support me: [Donate!](https://www.paypal.com/donate/?hosted_button_id=FYJLB7DAJRR58)
-- My TryHackMe Profile:
-<p align="left"> <a href="https://tryhackme.com/p/DerPapst"><img src="https://tryhackme-badges.s3.amazonaws.com/DerPapst.png" alt="TryHackMe" /></a> </p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
