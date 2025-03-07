@@ -4,9 +4,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=johanneslks&column=9&theme=gruvbox&no-frame=true" alt="johanneslks" /></a> </p>
 
-- 🔭 I’m currently working on [Google Timesketch](https://github.com/google/timesketch)
+- 🔭 I’m currently looking to contribute in some Opensource Project related to Cybersecurity
 
-- 🌱 I’m currently learning **pentesting**, **ruby**
+- 🌱 I’m currently learning **pentesting**
 
 - 👯 I’m looking to collaborate on Opensource Pentest-Tools
 
