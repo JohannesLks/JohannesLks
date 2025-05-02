@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently looking to contribute in some Opensource Project related to Cybersecurity
 
-- 🌱 I’m currently learning **pentesting**
+- 🌱 I’m currently working on [gtfo-auditor](https://github.com/JohannesLks/gtfo-auditor)
 
 - 👯 I’m looking to collaborate on Opensource Pentest-Tools
 
