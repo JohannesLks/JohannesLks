@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **github@pontis-it.com**
 
-- 🖥️ My Website: [pontis-it.com](http://pontis-it.com)
+- 🖥️ My Website: https://www.johannes-moeller.dev
 
 - :money_with_wings: Support me: [Donate!](https://www.paypal.com/donate/?hosted_button_id=FYJLB7DAJRR58)
 
