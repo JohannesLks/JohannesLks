@@ -4,7 +4,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=johanneslks&column=9&theme=gruvbox&no-frame=true" alt="johanneslks" /></a> </p>
 
-- 🔭 I’m currently looking to contribute in some Opensource Project related to Cybersecurity
+- 🔭 I’m currently looking to contribute in some opensource project related to Cybersecurity
 
 - 🌱 I’m currently working on [metasploit-framework](https://github.com/rapid7/metasploit-framework) [nmap](https://github.com/nmap/nmap) [ADLAH](https://github.com/JohannesLks/ADLAH) [Plain2NCI](https://github.com/JohannesLks/Plain2NCI)
 - 👯 I’m looking to collaborate on Opensource Pentest-Tools
