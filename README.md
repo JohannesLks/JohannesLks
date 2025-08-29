@@ -2,7 +2,7 @@
 # Johannes Möller
 
 Cybersecurity Engineer & Researcher  
-[Website](https://www.johannes-moeller.de) | [GitHub](https://github.com/JohannesLks) | [Email](mailto:github@pontis-it.com)
+[Website](https://www.johannes-moeller.dev) | [GitHub](https://github.com/JohannesLks) | [Email](mailto:github@pontis-it.com)
 
 ---
 
