@@ -8,7 +8,7 @@ Cybersecurity Engineer & Researcher
 
 ## About
 I work at the intersection of cybersecurity, machine learning, and adaptive system design.  
-My projects range from honeynet architectures to secure DevOps pipelines and open-source contributions. 
+My projects range from honeynet architectures to ethical hacking tools and open-source contributions. 
 
 ---
 
