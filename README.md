@@ -2,7 +2,7 @@
 # Johannes Möller
 
 Cybersecurity Engineer & Researcher  
-[Website](https://www.johannes-moeller.dev) | [LinkedIn](https://www.linkedin.com/in/lukas-johannes-moeller/) | [Email](mailto:github@pontis-it.com)
+[Website](https://www.johannes-moeller.dev) | [LinkedIn](https://www.linkedin.com/in/lukas-johannes-moeller/) | [Email](mailto:kontakt@johannes-moeller.dev)
 
 ---
 
@@ -13,4 +13,4 @@ My projects range from honeynet architectures to ethical hacking tools and open-
 ---
 
 ## Contact
-Feel free to reach out via [email](mailto:github@pontis-it.com).
+Feel free to reach out via [email](mailto:kontakt@johannes-moeller.dev).
