@@ -2,7 +2,7 @@
 # Johannes Möller
 
 Cybersecurity Engineer & Researcher  
-[Website](https://www.johannes-moeller.dev) | [LinkedIn](https://www.linkedin.com/in/lukas-johannes-moeller/) | [Email](mailto:kontakt@johannes-moeller.dev)
+[Website](https://www.johannes-moeller.dev) | [LinkedIn](https://www.linkedin.com/in/lukas-johannes-moeller/) | [Email](mailto:hello@johannes-moeller.dev)
 
 ---
 
